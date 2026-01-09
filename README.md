@@ -1,5 +1,7 @@
 Smart Attendance System
 The Smart Attendance System is a digital solution designed to automate and streamline the student attendance process using QR codes. Faculty members generate dynamic QR codes for each lecture, and students can scan them through the application to instantly record attendance. The system uses Java Swing for the user interface and MySQL with JDBC for secure backend data management. It provides real-time attendance tracking, enabling students to view their attendance status anytime without relying on faculty. Admins can view consolidated attendance reports and export them for documentation. This project enhances accuracy, minimizes manual effort, and reduces attendance fraud while ensuring transparency for both students and administrators.
+
+
 Objectives
 1.	Automate Attendance Recording
 To replace manual attendance methods with a QR-based digital system that ensures fast, accurate, and hassle-free attendance marking.
